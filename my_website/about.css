@@ -1,6 +1,19 @@
 body{
-    background-color: hsl(0, 100%, 90%);
+    background-image: url("images/catbug.gif")
 }
-h1{
-     font-family:"Amatic SC", fantasy;
+html{
+     font-family:"Arial", fantasy;
+}
+table, th, td, p, ol, ul{
+    border: 2px inset black;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+p, ol, ul, td ,th{
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+}
+html{
+    font-family: 'Indie Flower', cursive;
 }
