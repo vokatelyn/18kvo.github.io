@@ -11,7 +11,6 @@ table{
     margin-right:auto;
     text-align:left;
     border-collapse:collapse;
-    cellspacing: 0px;
 }
 tr{
     border: 1px solid #ffffff;

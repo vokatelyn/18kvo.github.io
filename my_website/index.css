@@ -1,9 +1,15 @@
 body{
-    background-image: url(http://s3.mirror.co.uk/mirror/ampp3d/2015/February/02/pizza_dancing.gif)
+    background-image: url("images/pokemon.jpg")
 }
 head{
     font-size: 100px;
 }
 html{
-     font-family:"Arial", fantasy;
+    font-family: 'Shadows Into Light Two', cursive;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 23px;
 }

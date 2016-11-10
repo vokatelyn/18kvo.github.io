@@ -1,19 +1,22 @@
 body{
-    background-image: url("images/catbug.gif")
-}
-html{
-     font-family:"Arial", fantasy;
+    background-image: url("images/pokemon.jpg") 
 }
 table, th, td, p, ol, ul{
     border: 2px inset black;
     border-collapse: collapse;
     font-size: 20px;
 }
-p, ol, ul, td ,th{
-    padding: 20px;
-    width: 80%;
-    margin: auto;
-}
 html{
-    font-family: "Gloria Hallelujah", cursive;
+    font-family: "Shadows Into Light Two", cursive;
+}
+table, th, td{
+    padding: 20px;
+}
+p{
+    padding: 15px;
+    width: 50%;
+}
+ol, ul{
+    padding: 15px;
+    width: 15%;
 }
