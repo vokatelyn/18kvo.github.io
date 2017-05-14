@@ -1,7 +1,7 @@
 body{
     background-image: url("images/pokemon.jpg") 
 }
-html, table, th, td, p, ol, ul{
+table, th, td, p, ol, ul{
     border: 2px inset black;
     border-collapse: collapse;
     font-size: 20px;
