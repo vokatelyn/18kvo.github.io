@@ -12,3 +12,7 @@ p.redtext{
 #mine{
     font-weight: bold;
 }
+p{
+    padding: 15px;
+    width: 50%;
+}
